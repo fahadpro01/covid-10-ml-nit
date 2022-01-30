@@ -1,5 +1,5 @@
 # covid-10-ml-nit
-Solution link 
+Solution link and explaination.
 https://drive.google.com/file/d/1rqw_WGbgvTNF1TtiGpkEcnZeDJJaLtMI/view?usp=sharing
 
 
