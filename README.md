@@ -10,3 +10,6 @@ Used Diagonal Flow as a Base
 With VR ( kindly view the video ) 
 
 Used Google cloud for generate Private Keys
+
+model evalution:
+Random Forest : 94%
